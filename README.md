@@ -24,3 +24,40 @@ Things you may want to cover:
 * Environment Security.
 
 * Strong Params.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+references from- https://github.com/heartcombo/devise#getting-started
